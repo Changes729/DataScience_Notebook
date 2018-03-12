@@ -1,6 +1,6 @@
 import stddraw
 
-numOfLines = 50 #change the number.
+numOfLines = 100 #change the number.
 
 stddraw.setXscale(0, numOfLines)
 stddraw.setYscale(0, numOfLines)
